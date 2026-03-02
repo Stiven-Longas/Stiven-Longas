@@ -9,6 +9,13 @@
   <a href="https://www.facebook.com/share/16PbuVv43C/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
+  <a href="https://wa.me/573103301671" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
+</a>
+
+<a href="mailto:longasstiven829@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
 </div>
 
 ###
